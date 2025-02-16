@@ -1,1 +1,2 @@
-# entri-
+#The data consist of rental counts on an hourly basis .My aim is to estimate the daily rental counts.So the data preprocessing includes steps such as removing unwanted factors like instant and hour,coverting to datetime ,reducing the data into daily basis from hourly basis and finally the outliers are plot using boxplot.The dataprocessing reduced the shape of the data from
+17379 rows × 17 columns to 731 rows × 15 columns.
